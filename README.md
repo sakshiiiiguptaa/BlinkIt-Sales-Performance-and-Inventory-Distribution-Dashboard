@@ -2,7 +2,7 @@
 
 ᴘᴏᴡᴇʀ ʙɪ ᴘʀᴏᴊᴇᴄᴛ ꜱʜᴏᴡᴄᴀꜱɪɴɢ "ʙʟɪɴᴋɪᴛ ꜱᴀʟᴇꜱ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ ᴀɴᴅ ɪɴᴠᴇɴᴛᴏʀʏ ᴅɪꜱᴛʀɪʙᴜᴛɪᴏɴ"
 
-𝓢𝓽𝓮𝓹𝓼 𝓲𝓷 𝓟𝓻𝓸𝓳𝓮𝓬𝓽
+👉𝓢𝓽𝓮𝓹𝓼 𝓲𝓷 𝓟𝓻𝓸𝓳𝓮𝓬𝓽
 
 ✓ Requirement Gathering/ Business Requirements
 
@@ -26,9 +26,9 @@
 
 ✓ Insights Generation
 
-𝓑𝓾𝓼𝓲𝓷𝓮𝓼𝓼 𝓡𝓮𝓺𝓾𝓲𝓻𝓮𝓶𝓮𝓷𝓽
+👉𝓑𝓾𝓼𝓲𝓷𝓮𝓼𝓼 𝓡𝓮𝓺𝓾𝓲𝓻𝓮𝓶𝓮𝓷𝓽
 
-👉To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
+To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
 𝐊𝐏𝐈'𝐬 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
 
@@ -91,11 +91,11 @@
 
 - Chart Type: Matrix Card.
 
-𝓞𝓿𝓮𝓻𝓿𝓲𝓮𝔀
+👉𝓞𝓿𝓮𝓻𝓿𝓲𝓮𝔀
 
-👉This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales performance, customer satisfaction, and inventory distribution. It is designed to help BlinkIt identify key insights and opportunities for optimization using various KPIs and visualizations. The dashboard leverages data from different outlet locations, sizes, and item types to present a detailed view of the business performance.
+This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales performance, customer satisfaction, and inventory distribution. It is designed to help BlinkIt identify key insights and opportunities for optimization using various KPIs and visualizations. The dashboard leverages data from different outlet locations, sizes, and item types to present a detailed view of the business performance.
 
-𝓓𝓪𝓼𝓱𝓫𝓸𝓪𝓻𝓭 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼
+👉𝓓𝓪𝓼𝓱𝓫𝓸𝓪𝓻𝓭 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼
 
  🔷   𝑺𝒂𝒍𝒆𝒔 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔:
         Total Sales: Displays the overall sales amount ($1.20M).
@@ -124,9 +124,9 @@
  🔷    𝑪𝒖𝒔𝒕𝒐𝒎𝒆𝒓 𝑺𝒂𝒕𝒊𝒔𝒇𝒂𝒄𝒕𝒊𝒐𝒏:
         Outlet Type: Table summarizing total sales, number of items, average sales, average rating, and item visibility for different outlet types (e.g., Supermarket Type1, Grocery Store).
 
-𝓥𝓲𝓼𝓾𝓪𝓵𝓲𝔃𝓪𝓽𝓲𝓸𝓷𝓼
+👉𝓥𝓲𝓼𝓾𝓪𝓵𝓲𝔃𝓪𝓽𝓲𝓸𝓷𝓼
 
-👉The dashboard includes the following visualizations to present data effectively:
+The dashboard includes the following visualizations to present data effectively:
 
   🔷   Cards for key metrics (Total Sales, Average Sales, Number of Items, Average Rating).
   
@@ -143,7 +143,7 @@
   🔷   Table for detailed outlet type performance metrics.
     
 
-𝓘𝓷𝓼𝓲𝓰𝓱𝓽𝓼 𝓪𝓷𝓭 𝓞𝓹𝓹𝓸𝓻𝓽𝓾𝓷𝓲𝓽𝓲𝓮𝓼
+👉𝓘𝓷𝓼𝓲𝓰𝓱𝓽𝓼 𝓪𝓷𝓭 𝓞𝓹𝓹𝓸𝓻𝓽𝓾𝓷𝓲𝓽𝓲𝓮𝓼
 
    𝐇𝐢𝐠𝐡-𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐎𝐮𝐭𝐥𝐞𝐭𝐬: Identification of top-performing outlets based on sales and customer ratings.
    
@@ -152,6 +152,6 @@
    𝐈𝐧𝐯𝐞𝐧𝐭𝐨𝐫𝐲 𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Recommendations for reallocating stock based on outlet size and location to better meet customer demand.
     
 
-𝓒𝓸𝓷𝓬𝓵𝓾𝓼𝓲𝓸𝓷
+👉𝓒𝓸𝓷𝓬𝓵𝓾𝓼𝓲𝓸𝓷
 
 𝘛𝘩𝘪𝘴 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐 𝘥𝘢𝘴𝘩𝘣𝘰𝘢𝘳𝘥 𝘱𝘳𝘰𝘷𝘪𝘥𝘦𝘴 𝘉𝘭𝘪𝘯𝘬𝘐𝘵 𝘸𝘪𝘵𝘩 𝘢𝘤𝘵𝘪𝘰𝘯𝘢𝘣𝘭𝘦 𝘪𝘯𝘴𝘪𝘨𝘩𝘵𝘴 𝘪𝘯𝘵𝘰 𝘵𝘩𝘦𝘪𝘳 𝘴𝘢𝘭𝘦𝘴 𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦, 𝘤𝘶𝘴𝘵𝘰𝘮𝘦𝘳 𝘴𝘢𝘵𝘪𝘴𝘧𝘢𝘤𝘵𝘪𝘰𝘯, 𝘢𝘯𝘥 𝘪𝘯𝘷𝘦𝘯𝘵𝘰𝘳𝘺 𝘥𝘪𝘴𝘵𝘳𝘪𝘣𝘶𝘵𝘪𝘰𝘯. 𝘉𝘺 𝘭𝘦𝘷𝘦𝘳𝘢𝘨𝘪𝘯𝘨 𝘵𝘩𝘦𝘴𝘦 𝘪𝘯𝘴𝘪𝘨𝘩𝘵𝘴, 𝘉𝘭𝘪𝘯𝘬𝘐𝘵 𝘤𝘢𝘯 𝘮𝘢𝘬𝘦 𝘪𝘯𝘧𝘰𝘳𝘮𝘦𝘥 𝘥𝘦𝘤𝘪𝘴𝘪𝘰𝘯𝘴 𝘵𝘰 𝘰𝘱𝘵𝘪𝘮𝘪𝘻𝘦 𝘵𝘩𝘦𝘪𝘳 𝘰𝘱𝘦𝘳𝘢𝘵𝘪𝘰𝘯𝘴 𝘢𝘯𝘥 𝘥𝘳𝘪𝘷𝘦 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘨𝘳𝘰𝘸𝘵𝘩.
