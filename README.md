@@ -94,12 +94,16 @@
 ​🇴​​🇻​​🇪​​🇷​​🇻​​🇮​​🇪​​🇼​
 
 👉This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales performance, customer satisfaction, and inventory distribution. It is designed to help BlinkIt identify key insights and opportunities for optimization using various KPIs and visualizations. The dashboard leverages data from different outlet locations, sizes, and item types to present a detailed view of the business performance.
-Dashboard Features
+
+​🇩​​🇦​​🇸​​🇭​​🇧​​🇴​​🇦​​🇷​​🇩​ ​🇫​​🇪​​🇦​​🇹​​🇺​​🇷​​🇪​​🇸​
 
  🔷   𝑺𝒂𝒍𝒆𝒔 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔:
         Total Sales: Displays the overall sales amount ($1.20M).
+        
         Average Sales: Shows the average sales per outlet (141).
+        
         Number of Items: Indicates the total number of items sold (8523).
+        
         Average Rating: Reflects the average customer rating (3.9).
 
  🔷    𝑺𝒂𝒍𝒆𝒔 𝑻𝒓𝒆𝒏𝒅𝒔:
@@ -107,11 +111,14 @@ Dashboard Features
 
  🔷    𝑺𝒂𝒍𝒆𝒔 𝑩𝒓𝒆𝒂𝒌𝒅𝒐𝒘𝒏:
         Fat Content: Pie chart showing the sales distribution between low fat and regular items.
+        
         Item Type: Bar chart illustrating sales performance across various item categories, such as fruits, snacks, household items, and more.
+        
         Fat by Outlet: Bar chart breaking down sales by outlet and fat content.
 
  🔷    𝑰𝒏𝒗𝒆𝒏𝒕𝒐𝒓𝒚 𝑫𝒊𝒔𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏:
         Outlet Size: Donut chart depicting the distribution of inventory across small, medium, and large outlets.
+        
         Outlet Location: Bar chart showing the sales distribution across different outlet tiers (Tier 1, Tier 2, Tier 3).
 
  🔷    𝑪𝒖𝒔𝒕𝒐𝒎𝒆𝒓 𝑺𝒂𝒕𝒊𝒔𝒇𝒂𝒄𝒕𝒊𝒐𝒏:
