@@ -65,7 +65,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
-- Chart Type: Stacked Column Chart.
+- Chart Type: Stacked Bar Chart.
 
  💡 Total Sales by Outlet Establishment:
 
@@ -119,7 +119,7 @@ This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales per
  🔷    𝑰𝒏𝒗𝒆𝒏𝒕𝒐𝒓𝒚 𝑫𝒊𝒔𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏:
         Outlet Size: Donut chart depicting the distribution of inventory across small, medium, and large outlets.
         
-        Outlet Location: Bar chart showing the sales distribution across different outlet tiers (Tier 1, Tier 2, Tier 3).
+        Outlet Location: Funnel chart showing the sales distribution across different outlet tiers (Tier 1, Tier 2, Tier 3).
 
  🔷    𝑪𝒖𝒔𝒕𝒐𝒎𝒆𝒓 𝑺𝒂𝒕𝒊𝒔𝒇𝒂𝒄𝒕𝒊𝒐𝒏:
         Outlet Type: Table summarizing total sales, number of items, average sales, average rating, and item visibility for different outlet types (e.g., Supermarket Type1, Grocery Store).
@@ -132,13 +132,13 @@ The dashboard includes the following visualizations to present data effectively:
   
   🔷   Line chart for sales trends over time.
   
-  🔷   Pie chart for sales distribution by fat content.
+  🔷   Donut chart for sales distribution by fat content.
   
   🔷   Bar charts for item type performance and sales breakdown by outlet.
   
   🔷   Donut chart for inventory distribution by outlet size.
   
-  🔷   Bar chart for sales distribution by outlet location.
+  🔷   Funnel chart for sales distribution by outlet location.
   
   🔷   Table for detailed outlet type performance metrics.
     
