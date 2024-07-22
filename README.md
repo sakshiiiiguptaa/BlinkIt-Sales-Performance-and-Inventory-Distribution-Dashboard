@@ -100,7 +100,7 @@ This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales per
  🔷   𝑺𝒂𝒍𝒆𝒔 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔:
         Total Sales: Displays the overall sales amount.
         
-        Average Sales: Shows the average sales per outlet.
+        Average Sales: Shows the average sales.
         
         Number of Items: Indicates the total number of items sold.
         
@@ -110,11 +110,11 @@ This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales per
         Outlet Establishment: A line chart displaying the trend of total sales over time, highlighting key milestones and growth periods.
 
  🔷    𝑺𝒂𝒍𝒆𝒔 𝑩𝒓𝒆𝒂𝒌𝒅𝒐𝒘𝒏:
-        Fat Content: Pie chart showing the sales distribution between low fat and regular items.
+        Fat Content: Donut chart showing the sales distribution between low fat and regular items.
         
         Item Type: Bar chart illustrating sales performance across various item categories, such as fruits, snacks, household items, and more.
         
-        Fat by Outlet: Bar chart breaking down sales by outlet and fat content.
+        Fat by Outlet: Stacked Bar chart breaking down sales by outlet and fat content.
 
  🔷    𝑰𝒏𝒗𝒆𝒏𝒕𝒐𝒓𝒚 𝑫𝒊𝒔𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏:
         Outlet Size: Donut chart depicting the distribution of inventory across small, medium, and large outlets.
