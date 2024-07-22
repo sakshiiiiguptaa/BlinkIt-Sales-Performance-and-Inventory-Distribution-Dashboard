@@ -42,7 +42,7 @@ P̳o̳w̳e̳r̳ ̳B̳I̳ ̳P̳r̳o̳j̳e̳c̳t̳ ̳s̳h̳o̳w̳c̳a̳s̳i̳n̳g�
 
 𝗖𝗵𝗮𝗿𝘁'𝘀 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀
 
-1. Total Sales by Fat Content:
+ 💡 Total Sales by Fat Content:
 
 🔷 Objective: Analyze the impact of fat content on total sales.
 
@@ -50,7 +50,7 @@ P̳o̳w̳e̳r̳ ̳B̳I̳ ̳P̳r̳o̳j̳e̳c̳t̳ ̳s̳h̳o̳w̳c̳a̳s̳i̳n̳g�
 
 🔷 Chart Type: Donut Chart.
 
-2. Total Sales by Item Type:
+ 💡 Total Sales by Item Type:
 
 🔷 Objective: Identify the performance of different item types in terms of total sales.
 
@@ -58,7 +58,7 @@ P̳o̳w̳e̳r̳ ̳B̳I̳ ̳P̳r̳o̳j̳e̳c̳t̳ ̳s̳h̳o̳w̳c̳a̳s̳i̳n̳g�
 
 🔷 Chart Type: Bar Chart.
 
-3. Fat Content by Outlet for Total Sales:
+ 💡 Fat Content by Outlet for Total Sales:
 
 🔷 Objective: Compare total sales across different outlets segmented by fat content.
 
@@ -66,25 +66,25 @@ P̳o̳w̳e̳r̳ ̳B̳I̳ ̳P̳r̳o̳j̳e̳c̳t̳ ̳s̳h̳o̳w̳c̳a̳s̳i̳n̳g�
 
 🔷 Chart Type: Stacked Column Chart.
 
-4. Total Sales by Outlet Establishment:
+ 💡 Total Sales by Outlet Establishment:
 
 🔷 Objective: Evaluate how the age or type of outlet establishment influences total sales.
 
 🔷 Chart Type: Line Chart.
 
-5. Sales by Outlet Size:
+ 💡 Sales by Outlet Size:
 
 🔷 Objective: Analyze the correlation between outlet size and total sales.
 
 🔷 Chart Type: Donut/ Pie Chart.
 
-6. Sales by Outlet Location:
+ 💡 Sales by Outlet Location:
 
 🔷 Objective: Assess the geographic distribution of sales across different locations.
 
 🔷 Chart Type: Funnel Map.
 
-7. All Metrics by Outlet Type:
+ 💡 All Metrics by Outlet Type:
 
 🔷 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 
