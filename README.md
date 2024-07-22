@@ -1,5 +1,6 @@
 # BlinkIt-Sales-Performance-and-Inventory-Distribution-Dashboard
-P̳o̳w̳e̳r̳ ̳B̳I̳ ̳P̳r̳o̳j̳e̳c̳t̳ ̳s̳h̳o̳w̳c̳a̳s̳i̳n̳g̳ ̳"̳B̳l̳i̳n̳k̳I̳t̳ ̳S̳a̳l̳e̳s̳ ̳P̳e̳r̳f̳o̳r̳m̳a̳n̳c̳e̳ ̳a̳n̳d̳ ̳I̳n̳v̳e̳n̳t̳o̳r̳y̳ ̳D̳i̳s̳t̳r̳i̳b̳u̳t̳i̳o̳n̳"̳
+
+ᴘᴏᴡᴇʀ ʙɪ ᴘʀᴏᴊᴇᴄᴛ ꜱʜᴏᴡᴄᴀꜱɪɴɢ "ʙʟɪɴᴋɪᴛ ꜱᴀʟᴇꜱ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ ᴀɴᴅ ɪɴᴠᴇɴᴛᴏʀʏ ᴅɪꜱᴛʀɪʙᴜᴛɪᴏɴ"
 
 ​🇸​​🇹​​🇪​​🇵​​🇸​ ​🇮​​🇳​ ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​
 
