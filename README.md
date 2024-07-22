@@ -98,13 +98,13 @@ This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales per
 👉𝓓𝓪𝓼𝓱𝓫𝓸𝓪𝓻𝓭 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼
 
  🔷   𝑺𝒂𝒍𝒆𝒔 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔:
-        Total Sales: Displays the overall sales amount ($1.20M).
+        Total Sales: Displays the overall sales amount.
         
-        Average Sales: Shows the average sales per outlet (141).
+        Average Sales: Shows the average sales per outlet.
         
-        Number of Items: Indicates the total number of items sold (8523).
+        Number of Items: Indicates the total number of items sold.
         
-        Average Rating: Reflects the average customer rating (3.9).
+        Average Rating: Reflects the average customer rating.
 
  🔷    𝑺𝒂𝒍𝒆𝒔 𝑻𝒓𝒆𝒏𝒅𝒔:
         Outlet Establishment: A line chart displaying the trend of total sales over time, highlighting key milestones and growth periods.
