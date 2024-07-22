@@ -95,6 +95,24 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales performance, customer satisfaction, and inventory distribution. It is designed to help BlinkIt identify key insights and opportunities for optimization using various KPIs and visualizations. The dashboard leverages data from different outlet locations, sizes, and item types to present a detailed view of the business performance.
 
+Total Sales = SUM('BlinkIT Grocery Data'[Sales])
+
+Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])
+
+No of Items = COUNTROWS('BlinkIT Grocery Data')
+
+Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])
+
+👉𝓕𝓸𝓵𝓵𝓸𝔀𝓲𝓷𝓰 𝓜𝓮𝓪𝓼𝓾𝓻𝓮𝓼 𝔀𝓮𝓻𝓮 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓾𝓼𝓲𝓷𝓰 𝓓𝓐𝓧
+
+Total Sales = SUM('BlinkIT Grocery Data'[Sales])
+
+Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])
+
+No of Items = COUNTROWS('BlinkIT Grocery Data')
+
+Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])
+
 👉𝓓𝓪𝓼𝓱𝓫𝓸𝓪𝓻𝓭 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼
 
  🔷   𝑺𝒂𝒍𝒆𝒔 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔:
