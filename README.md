@@ -26,7 +26,7 @@
 
 ✓ Insights Generation
 
-👉𝓑𝓾𝓼𝓲𝓷𝓮𝓼𝓼 𝓡𝓮𝓺𝓾𝓲𝓻𝓮𝓶𝓮𝓷𝓽
+👉𝓞𝓫𝓳𝓮𝓬𝓽𝓲𝓿𝓮 / 𝓑𝓾𝓼𝓲𝓷𝓮𝓼𝓼 𝓡𝓮𝓺𝓾𝓲𝓻𝓮𝓶𝓮𝓷𝓽
 
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
