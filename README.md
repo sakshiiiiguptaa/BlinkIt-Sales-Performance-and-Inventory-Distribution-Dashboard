@@ -161,11 +161,11 @@ The dashboard includes the following visualizations to present data effectively:
 
 👉𝓘𝓷𝓼𝓲𝓰𝓱𝓽𝓼 𝓪𝓷𝓭 𝓞𝓹𝓹𝓸𝓻𝓽𝓾𝓷𝓲𝓽𝓲𝓮𝓼
 
-   𝐇𝐢𝐠𝐡-𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐎𝐮𝐭𝐥𝐞𝐭: The majority of sales came from  outlets having Tier 3 Location Type.
+   𝐇𝐢𝐠𝐡-𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐎𝐮𝐭𝐥𝐞𝐭: Tier 3 outlets generate the highest sales, suggesting a focus on expanding services in these areas.
    
    𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐚𝐭𝐢𝐬𝐟𝐚𝐜𝐭𝐢𝐨𝐧 𝐓𝐫𝐞𝐧𝐝𝐬: Customers' average rating was discovered to be 3.9.
    
-   𝐈𝐧𝐯𝐞𝐧𝐭𝐨𝐫𝐲 𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Given that Fruits and Vegetables account for the largest portion of total sales, it is advised to have an optimal inventory of this sort of item.
+   𝐈𝐧𝐯𝐞𝐧𝐭𝐨𝐫𝐲 𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Fruits and vegetables, snack food, and household items are top-selling categories, presenting opportunities for targeted marketing and stock optimization.
     
 👉𝓒𝓸𝓷𝓬𝓵𝓾𝓼𝓲𝓸𝓷
 
