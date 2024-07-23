@@ -105,6 +105,10 @@ No of Items = COUNTROWS('BlinkIT Grocery Data')
 
 Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])
 
+👉𝓟𝓪𝓻𝓪𝓶𝓮𝓽𝓮𝓻 𝓬𝓻𝓮𝓪𝓽𝓮𝓭
+
+A Field parameter, Metrics was created so that people can use Slicers to see the different outcomes based on Total Sales, Average Sales, Number of Items, Average Rating.
+
 👉𝓓𝓪𝓼𝓱𝓫𝓸𝓪𝓻𝓭 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼
 
  🔷   𝑺𝒂𝒍𝒆𝒔 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔:
