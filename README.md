@@ -2,6 +2,10 @@
 
 ᴘᴏᴡᴇʀ ʙɪ ᴘʀᴏᴊᴇᴄᴛ ꜱʜᴏᴡᴄᴀꜱɪɴɢ "ʙʟɪɴᴋɪᴛ ꜱᴀʟᴇꜱ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ ᴀɴᴅ ɪɴᴠᴇɴᴛᴏʀʏ ᴅɪꜱᴛʀɪʙᴜᴛɪᴏɴ"
 
+👉𝓞𝓫𝓳𝓮𝓬𝓽𝓲𝓿𝓮
+
+To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
+
 👉𝓢𝓽𝓮𝓹𝓼 𝓲𝓷 𝓟𝓻𝓸𝓳𝓮𝓬𝓽
 
 ✓ Requirement Gathering/ Business Requirements
@@ -26,9 +30,7 @@
 
 ✓ Insights Generation
 
-👉𝓞𝓫𝓳𝓮𝓬𝓽𝓲𝓿𝓮 / 𝓑𝓾𝓼𝓲𝓷𝓮𝓼𝓼 𝓡𝓮𝓺𝓾𝓲𝓻𝓮𝓶𝓮𝓷𝓽
-
-To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
+👉𝓑𝓾𝓼𝓲𝓷𝓮𝓼𝓼 𝓡𝓮𝓺𝓾𝓲𝓻𝓮𝓶𝓮𝓷𝓽
 
 𝐊𝐏𝐈'𝐬 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
 
