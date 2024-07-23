@@ -155,13 +155,12 @@ The dashboard includes the following visualizations to present data effectively:
 
 👉𝓘𝓷𝓼𝓲𝓰𝓱𝓽𝓼 𝓪𝓷𝓭 𝓞𝓹𝓹𝓸𝓻𝓽𝓾𝓷𝓲𝓽𝓲𝓮𝓼
 
-   𝐇𝐢𝐠𝐡-𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐎𝐮𝐭𝐥𝐞𝐭𝐬: Identification of top-performing outlets based on sales and customer ratings.
+   𝐇𝐢𝐠𝐡-𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐎𝐮𝐭𝐥𝐞𝐭: The majority of sales came from  outlets having Tier 3 Location Type.
    
-   𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐚𝐭𝐢𝐬𝐟𝐚𝐜𝐭𝐢𝐨𝐧 𝐓𝐫𝐞𝐧𝐝𝐬: Analysis of customer feedback to pinpoint areas for improvement.
+   𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐚𝐭𝐢𝐬𝐟𝐚𝐜𝐭𝐢𝐨𝐧 𝐓𝐫𝐞𝐧𝐝𝐬: Customers' average rating was discovered to be 3.9.
    
-   𝐈𝐧𝐯𝐞𝐧𝐭𝐨𝐫𝐲 𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Recommendations for reallocating stock based on outlet size and location to better meet customer demand.
+   𝐈𝐧𝐯𝐞𝐧𝐭𝐨𝐫𝐲 𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Given that Fruits and Vegetables account for the largest portion of total sales, it is advised to have an optimal inventory of this sort of item.
     
-
 👉𝓒𝓸𝓷𝓬𝓵𝓾𝓼𝓲𝓸𝓷
 
 𝘛𝘩𝘪𝘴 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐 𝘥𝘢𝘴𝘩𝘣𝘰𝘢𝘳𝘥 𝘱𝘳𝘰𝘷𝘪𝘥𝘦𝘴 𝘉𝘭𝘪𝘯𝘬𝘐𝘵 𝘸𝘪𝘵𝘩 𝘢𝘤𝘵𝘪𝘰𝘯𝘢𝘣𝘭𝘦 𝘪𝘯𝘴𝘪𝘨𝘩𝘵𝘴 𝘪𝘯𝘵𝘰 𝘵𝘩𝘦𝘪𝘳 𝘴𝘢𝘭𝘦𝘴 𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦, 𝘤𝘶𝘴𝘵𝘰𝘮𝘦𝘳 𝘴𝘢𝘵𝘪𝘴𝘧𝘢𝘤𝘵𝘪𝘰𝘯, 𝘢𝘯𝘥 𝘪𝘯𝘷𝘦𝘯𝘵𝘰𝘳𝘺 𝘥𝘪𝘴𝘵𝘳𝘪𝘣𝘶𝘵𝘪𝘰𝘯. 𝘉𝘺 𝘭𝘦𝘷𝘦𝘳𝘢𝘨𝘪𝘯𝘨 𝘵𝘩𝘦𝘴𝘦 𝘪𝘯𝘴𝘪𝘨𝘩𝘵𝘴, 𝘉𝘭𝘪𝘯𝘬𝘐𝘵 𝘤𝘢𝘯 𝘮𝘢𝘬𝘦 𝘪𝘯𝘧𝘰𝘳𝘮𝘦𝘥 𝘥𝘦𝘤𝘪𝘴𝘪𝘰𝘯𝘴 𝘵𝘰 𝘰𝘱𝘵𝘪𝘮𝘪𝘻𝘦 𝘵𝘩𝘦𝘪𝘳 𝘰𝘱𝘦𝘳𝘢𝘵𝘪𝘰𝘯𝘴 𝘢𝘯𝘥 𝘥𝘳𝘪𝘷𝘦 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘨𝘳𝘰𝘸𝘵𝘩.
