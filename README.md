@@ -99,6 +99,7 @@ This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales per
 
 👉𝗙𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗠𝗲𝗮𝘀𝘂𝗿𝗲𝘀 𝘄𝗲𝗿𝗲 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝘂𝘀𝗶𝗻𝗴 𝗗𝗔𝗫
 
+
 Total Sales = SUM('BlinkIT Grocery Data'[Sales])
 
 Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])
