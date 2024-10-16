@@ -6,7 +6,7 @@
 
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
-____________________________________________________________________________________
+_______________________________________________________________________________________________________________________
 
 👉𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁
 
@@ -70,10 +70,12 @@ ________________________________________________________________________________
 - Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 
 - Chart Type: Matrix Card.
+  ___________________________________________________________________________________________________________________
 
 👉𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
 
 This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales performance, customer satisfaction, and inventory distribution. It is designed to help BlinkIt identify key insights and opportunities for optimization using various KPIs and visualizations. The dashboard leverages data from different outlet locations, sizes, and item types to present a detailed view of the business performance.
+_____________________________________________________________________________________________________________________
 
 👉𝗙𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗠𝗲𝗮𝘀𝘂𝗿𝗲𝘀 𝘄𝗲𝗿𝗲 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝘂𝘀𝗶𝗻𝗴 𝗗𝗔𝗫
 
@@ -85,10 +87,12 @@ This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales per
 3. No of Items = COUNTROWS('BlinkIT Grocery Data')
 
 4. Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])
+______________________________________________________________________________________________________________________
 
 👉𝗣𝗮𝗿𝗮𝗺𝗲𝘁𝗲𝗿𝘀 𝗖𝗿𝗲𝗮𝘁𝗲𝗱
 
 A Field parameter, Metrics was created so that people can use Slicers to see the different outcomes based on Total Sales, Average Sales, Number of Items, Average Rating.
+_______________________________________________________________________________________________________________________
 
 👉𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 
@@ -118,7 +122,7 @@ A Field parameter, Metrics was created so that people can use Slicers to see the
 
  🔷    𝑪𝒖𝒔𝒕𝒐𝒎𝒆𝒓 𝑺𝒂𝒕𝒊𝒔𝒇𝒂𝒄𝒕𝒊𝒐𝒏:
         Outlet Type: Table summarizing total sales, number of items, average sales, average rating, and item visibility for different outlet types (e.g., Supermarket Type1, Grocery Store).
-
+_______________________________________________________________________________________________________________________________
 👉𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻𝘀
 
 The dashboard includes the following visualizations to present data effectively:
@@ -137,7 +141,7 @@ The dashboard includes the following visualizations to present data effectively:
   
   7.   Table for detailed outlet type performance metrics.
     
-
+______________________________________________________________________________________________________________________________
 👉𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗮𝗻𝗱 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀
 
    𝐇𝐢𝐠𝐡-𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐎𝐮𝐭𝐥𝐞𝐭: Tier 3 outlets generate the highest sales, suggesting a focus on expanding services in these areas.
