@@ -6,30 +6,6 @@
 
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
-👉𝗦𝘁𝗲𝗽𝘀 𝗶𝗻 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
-
-✓ Requirement Gathering/ Business Requirements
-
-✓ Data Walkthrough
-
-✓ Data Connection
-
-✓ Data Cleaning / Quality Check
-
-✓ Data Modeling
-
-✓ Data Processing
-
-✓ DAX Calculations
-
-✓ Dashboard Lay outing
-
-✓ Charts Development and Formatting
-
-✓ Dashboard / Report Development
-
-✓ Insights Generation
-
 👉𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁
 
 𝐊𝐏𝐈'𝐬 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
@@ -100,13 +76,13 @@ This Power BI dashboard provides a comprehensive analysis of BlinkIt's sales per
 👉𝗙𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗠𝗲𝗮𝘀𝘂𝗿𝗲𝘀 𝘄𝗲𝗿𝗲 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝘂𝘀𝗶𝗻𝗴 𝗗𝗔𝗫
 
 
-Total Sales = SUM('BlinkIT Grocery Data'[Sales])
+1. Total Sales = SUM('BlinkIT Grocery Data'[Sales])
 
-Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])
+2. Avg Sales = AVERAGE('BlinkIT Grocery Data'[Sales])
 
-No of Items = COUNTROWS('BlinkIT Grocery Data')
+3. No of Items = COUNTROWS('BlinkIT Grocery Data')
 
-Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])
+4. Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])
 
 👉𝗣𝗮𝗿𝗮𝗺𝗲𝘁𝗲𝗿𝘀 𝗖𝗿𝗲𝗮𝘁𝗲𝗱
 
@@ -145,19 +121,19 @@ A Field parameter, Metrics was created so that people can use Slicers to see the
 
 The dashboard includes the following visualizations to present data effectively:
 
-  🔷   Cards for key metrics (Total Sales, Average Sales, Number of Items, Average Rating).
+  1.   Cards for key metrics (Total Sales, Average Sales, Number of Items, Average Rating).
   
-  🔷   Line chart for sales trends over time.
+  2.   Line chart for sales trends over time.
   
-  🔷   Donut chart for sales distribution by fat content.
+  3.   Donut chart for sales distribution by fat content.
   
-  🔷   Bar charts for item type performance and sales breakdown by outlet.
+  4.   Bar charts for item type performance and sales breakdown by outlet.
   
-  🔷   Donut chart for inventory distribution by outlet size.
+  5.   Donut chart for inventory distribution by outlet size.
   
-  🔷   Funnel chart for sales distribution by outlet location.
+  6.   Funnel chart for sales distribution by outlet location.
   
-  🔷   Table for detailed outlet type performance metrics.
+  7.   Table for detailed outlet type performance metrics.
     
 
 👉𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗮𝗻𝗱 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀
